@@ -1,6 +1,6 @@
 ---
-id: meshstack.aws
-title: Amazon Web Services
+id: meshstack.aws.index
+title: Overview
 ---
 
 *AWS* is a proprietary public cloud platform provided by Amazon Web Services. meshStack supports project and user management for AWS to include AWS services into cloud projects managed by meshStack.

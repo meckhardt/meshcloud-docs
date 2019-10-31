@@ -51,8 +51,11 @@
       "meshstack.monitoring",
       "meshstack.api"
     ],
+    "Amazon Web Services": [
+      "meshstack.aws.index",
+      "meshstack.aws.tutorial"
+    ],
     "Platforms": [
-      "meshstack.aws",
       "meshstack.azure",
       "meshstack.gcp",
       "meshstack.cloudfoundry",
